@@ -145,7 +145,7 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" href="mailto:shlokjhunjhunwala02@gmail.com">
+            <Contact target="_blank" href="mailto:ankush2020kedia@gmail.com">
                 <motion.h2
                 initial={{
                     y:-200,
